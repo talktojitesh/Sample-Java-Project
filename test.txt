@@ -1,2 +1,2 @@
 This is branch file.
-This file will get conflicts.
+This file will not get conflicts.
